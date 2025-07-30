@@ -1,0 +1,14 @@
+site_name: Data Quality - DataAlchemists
+site_description: AI-generated data quality rules and project documentation
+site_author: DataAlchemists Team
+site_url: https://<your-username>.github.io/<your-repo-name>  # Update this!
+
+docs_dir: docs
+
+theme:
+  name: material
+  language: en
+
+nav:
+  - Home: index.md
+  - Documentation: main.md
